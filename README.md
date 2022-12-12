@@ -1,7 +1,12 @@
 
 # Yoga Classes Backend
 
-The backend of the app is built using NodeJs and ExpressJS. Database is MySQL.
+The backend of the app is built using NodeJs and ExpressJS. Database is MySQL.<br>
+It is hosted on Render.
+
+## ER Diagram of the SQL database
+![er](https://user-images.githubusercontent.com/54669961/207134583-4b41af67-8abb-43d3-b2c6-52f0813b48f5.PNG)
+
 
 ## 
 To run this project locally -
