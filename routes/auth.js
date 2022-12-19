@@ -7,9 +7,9 @@ const { JWT_SECRET } = require('../config/keys');
 
 const db = mysql.createPool({
   host: 'sql6.freesqldatabase.com',
-  database: 'sql6584239',
-  user: 'sql6584239',
-  password: 'vJfgLcHY8F'
+  database: 'sql6585416',
+  user: 'sql6585416',
+  password: 'JdntdbYxeR'
 });
 
 
